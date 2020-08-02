@@ -1,0 +1,21 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "db stuff",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0",
+    "install": "^0.13.0",
+    "moment": "^2.27.0",
+    "nmp": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
